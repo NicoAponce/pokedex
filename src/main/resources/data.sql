@@ -1,0 +1,1 @@
+INSERT INTO pokemons(name,type,power,status) VALUES('pikachu','eléctrico','cola de hierro','ENABLED');INSERT INTO pokemons(name,type,power,status) VALUES('mewtwo','psiquico','bola sombra','ENABLED');INSERT INTO pokemons(name,type,power,status) VALUES('charizard','fuego','cola dragon','ENABLED');

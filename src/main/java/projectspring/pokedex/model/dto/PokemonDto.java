@@ -1,0 +1,1 @@
+package projectspring.pokedex.model.dto;import lombok.*;@Setter@Getter@AllArgsConstructor@NoArgsConstructor@Builderpublic class PokemonDto {    private Long id;    private String name;    private String type;    private String power;    private String status;}
